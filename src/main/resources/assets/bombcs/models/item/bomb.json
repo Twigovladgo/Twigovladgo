@@ -1,0 +1,11 @@
+{
+  "parent": "bombcs:custom/bomb",
+  "textures": {
+    "0": "bombcs:blocks/corpys1",
+    "": "bombcs:blocks/",
+    "1": "bombcs:blocks/taimer2",
+    "2": "bombcs:blocks/knopki3",
+    "3": "bombcs:blocks/plata",
+    "particle": "bombcs:items/corpys1"
+  }
+}

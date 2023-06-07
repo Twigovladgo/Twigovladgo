@@ -1,0 +1,15 @@
+{
+  "parent": "bombcs:custom/molotovgranatemod",
+  "textures": {
+    "0": "bombcs:blocks/texturemolotovgranate",
+    "1": "bombcs:blocks/texturemolotovgranate2",
+    "2": "bombcs:blocks/texturemolotovgranate3",
+    "3": "bombcs:blocks/texturemolotovgranate4",
+    "4": "bombcs:blocks/texturemolotovgranate5",
+    "5": "bombcs:blocks/texturemolotovgranate6",
+    "6": "bombcs:blocks/texturemolotovgranate7",
+    "7": "bombcs:blocks/texturemolotovgranate8",
+    "missing": "bombcs:blocks/",
+    "particle": "bombcs:items/texturemolotovgranate"
+  }
+}

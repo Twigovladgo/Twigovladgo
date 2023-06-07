@@ -1,0 +1,9 @@
+{
+  "_fv": 34,
+  "_type": "command",
+  "definition": {
+    "commandName": "bombc",
+    "permissionLevel": "4",
+    "argsxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"args_start\" deletable=\"false\" x=\"174\" y=\"54\"><next><block type=\"literal\"><field name=\"name\">babax</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Babax</field></block></statement><next><block type=\"literal\"><field name=\"name\">babax_bomb</field><statement name=\"args\"><block type=\"call_procedure\"><field name=\"procedure\">Babaxbomb</field></block></statement></block></next></block></next></block></xml>"
+  }
+}

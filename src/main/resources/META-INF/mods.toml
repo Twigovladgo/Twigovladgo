@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="bombcs"
+version="0.0.3"
+displayName="bombcs"
+credits="Мод на бомбу, эксклюзивно для ивента Zazdar"
+displayURL="https://mcreator.net - Это сайта, где можно скачать программу, в которой был сделан мод."
+authors="Котёнок на аве)"
+description='''
+Мод, добавляет бомбу, которая умеет взрываться! Вы тоже в шоке?
+'''
+
+[[dependencies.bombcs]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

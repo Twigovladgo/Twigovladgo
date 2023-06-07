@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "corpys1",
+        "": "",
+        "1": "taimer2",
+        "2": "knopki3",
+        "3": "plata"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bombcs:blocks/trigger",
+    "up": "bombcs:blocks/trigger",
+    "north": "bombcs:blocks/trigger",
+    "east": "bombcs:blocks/trigger",
+    "south": "bombcs:blocks/trigger",
+    "west": "bombcs:blocks/trigger",
+    "particle": "bombcs:blocks/trigger"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texturefleshgranate1",
+        "1": "texturefleshgranate2",
+        "2": "texturefleshgranate3",
+        "3": "texturefleshgranate4",
+        "4": "texturefleshgranate5",
+        "missing": "texturefleshgranate6"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "bombcs:custom/smoke_item",
+  "textures": {
+    "0": "bombcs:blocks/block_thrw_flash",
+    "particle": "bombcs:items/smoke_granate"
+  }
+}

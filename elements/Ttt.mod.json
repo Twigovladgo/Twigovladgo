@@ -1,0 +1,17 @@
+{
+  "_fv": 34,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Зона Установки бомбы",
+    "icon": "ef_zona.png",
+    "color": {
+      "value": -1,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false
+  }
+}

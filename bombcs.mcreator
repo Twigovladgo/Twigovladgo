@@ -1,0 +1,417 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bomb",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bomb",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Trigger",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trigger",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Ttt",
+      "type": "potioneffect",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ttt",
+      "path": "~/Effects"
+    },
+    {
+      "name": "TriggerKoghdaSushchnostStalkivaietsiaSBlokom",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trigger_koghda_sushchnost_stalkivaietsia_s_blokom",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Scripts"
+    },
+    {
+      "name": "Flash",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flash",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Smoke",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smoke",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Molotov",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "molotov",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Plantbomba",
+      "type": "procedure",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plantbomba",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Scripts"
+    },
+    {
+      "name": "Bombmod",
+      "type": "tab",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bombmod"
+    },
+    {
+      "name": "Bomba",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bomba",
+      "path": "~/Objects"
+    },
+    {
+      "name": "Vzriv_bombs_proced",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vzriv_bombs_proced",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Effects"
+    },
+    {
+      "name": "Vzryvchieriez",
+      "type": "potioneffect",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vzryvchieriez",
+      "path": "~/Effects"
+    },
+    {
+      "name": "Boomgameend",
+      "type": "potioneffect",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boomgameend",
+      "path": "~/Effects"
+    },
+    {
+      "name": "Babax",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "babax",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Bombc",
+      "type": "command",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bombc",
+      "path": "~/Commands"
+    },
+    {
+      "name": "Cooldawnclearance",
+      "type": "potioneffect",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooldawnclearance",
+      "path": "~/Effects"
+    },
+    {
+      "name": "Progressclearance",
+      "type": "potioneffect",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "progressclearance",
+      "path": "~/Effects"
+    },
+    {
+      "name": "Bomb_clearance",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bomb_clearance",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Effects"
+    },
+    {
+      "name": "EffBombdefused",
+      "type": "potioneffect",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eff_bombdefused",
+      "path": "~/Effects"
+    },
+    {
+      "name": "Gameend",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gameend",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Scripts"
+    },
+    {
+      "name": "Babaxbomb",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "babaxbomb",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Commands"
+    },
+    {
+      "name": "Broshiennyismoke",
+      "type": "rangeditem",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broshiennyismoke",
+      "path": "~/Objects"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "clearance_percent",
+      "type": "number",
+      "scope": "map",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "effect.eff_bombdefused": "Бомба обезврежена",
+      "effect.boomgameend": "Бомба взорвалась!",
+      "effect.ttt": "Зона Установки бомбы",
+      "effect.progressclearance": "Прогресс разминирования",
+      "effect.cooldawnclearance": "КД разминирование",
+      "itemGroup.tabbombmod": "Бомба",
+      "item.bombcs.bomb": "Бомба",
+      "item.bombcs.flash": "Флешка",
+      "block.bombcs.bomba": "Бомба [Блок]",
+      "item.bombcs.broshiennyismoke": "БрошенныйСмоук",
+      "item.bombcs.smoke": "Дымовая граната",
+      "item.bombcs.molotov": "Молотов",
+      "block.bombcs.trigger": "Зона ставки бомбы",
+      "effect.vzryvchieriez": "Взрыв через:"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Objects",
+        "children": []
+      },
+      {
+        "name": "Scripts",
+        "children": []
+      },
+      {
+        "name": "Commands",
+        "children": []
+      },
+      {
+        "name": "Effects",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "bombcs",
+    "modName": "bombcs",
+    "version": "0.0.3",
+    "description": "Мод, добавляет бомбу, которая умеет взрываться! Вы тоже в шоке?",
+    "author": "Котёнок на аве)",
+    "websiteURL": "https://mcreator.net - Это сайта, где можно скачать программу, в которой был сделан мод.",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": true,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Мод на бомбу, эксклюзивно для ивента Zazdar",
+    "modElementsPackage": "net.mcreator.bombcs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200345616
+}

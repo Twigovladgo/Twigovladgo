@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texturesmokegranatemod",
+        "1": "texturesmokegranatemod2",
+        "2": "texturesmokegranatemod3",
+        "3": "texturesmokegranatemod4",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

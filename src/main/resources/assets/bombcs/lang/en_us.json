@@ -1,0 +1,16 @@
+{
+  "effect.eff_bombdefused": "Бомба обезврежена",
+  "effect.boomgameend": "Бомба взорвалась!",
+  "effect.ttt": "Зона Установки бомбы",
+  "effect.progressclearance": "Прогресс разминирования",
+  "effect.cooldawnclearance": "КД разминирование",
+  "itemGroup.tabbombmod": "Бомба",
+  "item.bombcs.bomb": "Бомба",
+  "item.bombcs.flash": "Флешка",
+  "block.bombcs.bomba": "Бомба [Блок]",
+  "item.bombcs.broshiennyismoke": "БрошенныйСмоук",
+  "item.bombcs.smoke": "Дымовая граната",
+  "item.bombcs.molotov": "Молотов",
+  "block.bombcs.trigger": "Зона ставки бомбы",
+  "effect.vzryvchieriez": "Взрыв через:"
+}

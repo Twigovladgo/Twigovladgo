@@ -1,0 +1,12 @@
+{
+  "parent": "bombcs:custom/granatefleshkamod",
+  "textures": {
+    "0": "bombcs:blocks/texturefleshgranate1",
+    "1": "bombcs:blocks/texturefleshgranate2",
+    "2": "bombcs:blocks/texturefleshgranate3",
+    "3": "bombcs:blocks/texturefleshgranate4",
+    "4": "bombcs:blocks/texturefleshgranate5",
+    "missing": "bombcs:blocks/texturefleshgranate6",
+    "particle": "bombcs:items/texturefleshgranate1"
+  }
+}

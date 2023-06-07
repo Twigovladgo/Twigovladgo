@@ -1,0 +1,18 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "texturemolotovgranate",
+        "1": "texturemolotovgranate2",
+        "2": "texturemolotovgranate3",
+        "3": "texturemolotovgranate4",
+        "4": "texturemolotovgranate5",
+        "5": "texturemolotovgranate6",
+        "6": "texturemolotovgranate7",
+        "7": "texturemolotovgranate8",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
